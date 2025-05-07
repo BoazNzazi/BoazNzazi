@@ -1,25 +1,25 @@
 # 👋 Salut, je suis Boaz Nzazi ! 🎓
-🎓 Master 2 en Systèmes d’Information et Multimédia  
-🌍 Université de La Rochelle (France) & Université Nationale du Vietnam
+  🎓 Master 2 en Systèmes d’Information et Multimédia  
+  🌍 Université de La Rochelle (France) & Université Nationale du Vietnam
 
 ---
 
 ## 💡 À propos de moi
 
-Administrateur civil passionné par l’innovation publique et les technologies intelligentes,  
-je combine une solide expérience institutionnelle avec une expertise académique en **intelligence artificielle**, **analyse de données** et **prise de décision**.
+  Administrateur civil passionné par l’innovation publique et les technologies intelligentes,  
+  je combine une solide expérience institutionnelle avec une expertise académique en **intelligence artificielle**, **analyse de données** et **prise de décision**.
 
 ---
 
 ## Mes domaines de prédilection sont :
-- 🤖 **Machine Learning** & **Deep Learning**
-- 🧠 **Computer Vision** (détection, classification, OCR)
-- 📊 **Recherche opérationnelle** appliquée à la décision publique
-- 🧮 **Mathématiques appliquées**
-- 📈 **Gestion de projet** & **analyse décisionnelle**
-- 🏛️ **Conception, mise en œuvre et évaluation des politiques publiques**
-- 📊 **Power BI** & **Excel avancé**
-- ✍️ **Rédaction administrative et technique**
+ - 🤖 **Machine Learning** & **Deep Learning**
+ - 🧠 **Computer Vision** (détection, classification, OCR)
+ - 📊 **Recherche opérationnelle** appliquée à la décision publique
+ - 🧮 **Mathématiques appliquées**
+ - 📈 **Gestion de projet** & **analyse décisionnelle**
+ - 🏛️ **Conception, mise en œuvre et évaluation des politiques publiques**
+ - 📊 **Power BI** & **Excel avancé**
+ - ✍️ **Rédaction administrative et technique**
 
 ---
 
