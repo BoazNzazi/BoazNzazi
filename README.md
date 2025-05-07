@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Boaz Nzazi ! 🎓
+# 👋 Salut, je suis Boaz Nzazi ! 🎓  
 🎓 Master 2 en Systèmes d’Information et Multimédia  
 🌍 Université de La Rochelle (France) & Université Nationale du Vietnam
 
@@ -21,7 +21,6 @@ je combine une solide expérience institutionnelle avec une expertise académiqu
 - 📊 **Power BI** & **Excel avancé**
 - 📝 **Rédaction administrative et technique**
 
-
 ---
 
 🎯 Mon objectif : développer des solutions innovantes pour l’aide à la décision, l’automatisation intelligente, la gouvernance numérique et la modernisation de l’action publique.
@@ -30,44 +29,45 @@ je combine une solide expérience institutionnelle avec une expertise académiqu
 
 ## 🛠️ Compétences techniques
 
-**Langages & Frameworks**
-- `Python`, `C++`
-- `TensorFlow`, `Keras`, `PyTorch`
+**Langages & Frameworks**  
+- `Python`, `C++`  
+- `TensorFlow`, `Keras`, `PyTorch`  
 - `OpenCV`, `Scikit-learn`, `Pandas`, `NumPy`
 
 ---
 
-**Outils & Productivité**
+**Outils & Productivité**  
 - Git & GitHub  
-- Visualisation : `Matplotlib`, `Seaborn`, `Power BI`
+- Visualisation : `Matplotlib`, `Seaborn`, `Power BI`  
 - Tableurs : **Excel (niveau avancé)**  
 - Rédaction : rédaction administrative, rapports techniques et politiques  
 - Gestion : planification, suivi et évaluation de projets
 
 ---
 
-**Environnements**
+**Environnements**  
 - Jupyter Notebook, VS Code, Google Colab
 
 ---
 
 ## 📊 Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoazNzazi&show_icons=true&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoazNzazi&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoazNzazi&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🎯 Objectifs à venir
 
-- Approfondir mes compétences en **IA générative**, **modèles de diffusion** et **optimisation combinatoire**
-- Valoriser l’IA et la **science des données** dans les services publics et la gouvernance
+- Approfondir mes compétences en **IA générative**, **modèles de diffusion** et **optimisation combinatoire**  
+- Valoriser l’IA et la **science des données** dans les services publics et la gouvernance  
 - Contribuer à des projets open source et de **recherche appliquée**
 
 ---
 
 ## 📫 Contactez-moi
 
-- 💼 [Profil LinkedIn](https://www.linkedin.com/in/boaz-nzazi-msc-a532191b0/)
-- 📧 Email : boaz.nzazi@unikin.ac.cd
+- 💼 [Profil LinkedIn](https://www.linkedin.com/in/boaz-nzazi-msc-a532191b0/)  
+- 📧 Email : boaz.nzazi@unikin.ac.cd  
 - 📍 Basé à Kinshasa et Hanoi  
 - 🤝 Ouvert aux collaborations académiques, missions de conseil ou projets de recherche
