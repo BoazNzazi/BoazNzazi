@@ -9,7 +9,9 @@
 Administrateur civil passionné par l’innovation publique et les technologies intelligentes,  
 je combine une solide expérience institutionnelle avec une expertise académique en **intelligence artificielle**, **analyse de données** et **prise de décision**.
 
-Mes domaines de prédilection sont :
+---
+
+## Mes domaines de prédilection sont :
 - 🤖 **Machine Learning** & **Deep Learning**
 - 🧠 **Computer Vision** (détection, classification, OCR)
 - 📊 **Recherche opérationnelle** appliquée à la décision publique
@@ -18,6 +20,8 @@ Mes domaines de prédilection sont :
 - 🏛️ **Conception, mise en œuvre et évaluation des politiques publiques**
 - 📊 **Power BI** & **Excel avancé**
 - ✍️ **Rédaction administrative et technique**
+
+---
 
 🎯 Mon objectif : développer des solutions innovantes pour l’aide à la décision, l’automatisation intelligente, la gouvernance numérique et la modernisation de l’action publique.
 
@@ -30,12 +34,16 @@ Mes domaines de prédilection sont :
 - `TensorFlow`, `Keras`, `PyTorch`
 - `OpenCV`, `Scikit-learn`, `Pandas`, `NumPy`
 
+---
+
 **Outils & Productivité**
 - Git & GitHub  
 - Visualisation : `Matplotlib`, `Seaborn`, `Power BI`
 - Tableurs : **Excel (niveau avancé)**  
 - Rédaction : rédaction administrative, rapports techniques et politiques  
 - Gestion : planification, suivi et évaluation de projets
+
+---
 
 **Environnements**
 - Jupyter Notebook, VS Code, Google Colab
@@ -58,7 +66,7 @@ Mes domaines de prédilection sont :
 
 ## 📫 Contactez-moi
 
-- 💼 [Profil LinkedIn](https://www.linkedin.com/in/ton-lien)
-- 📧 Email : boaznzazi@gmail.com
+- 💼 [Profil LinkedIn](https://www.linkedin.com/in/boaz-nzazi-msc-a532191b0/)
+- 📧 Email : boaz.nzazi@unikin.ac.cd
 - 📍 Basé à Kinshasa et Hanoi  
 - 🤝 Ouvert aux collaborations académiques, missions de conseil ou projets de recherche
