@@ -36,7 +36,7 @@ je combine une solide expérience institutionnelle avec une expertise académiqu
 
 ---
 
-**Outils & Productivité**  
+## **Outils & Productivité**  
 - Git & GitHub  
 - Visualisation : `Matplotlib`, `Seaborn`, `Power BI`  
 - Tableurs : **Excel (niveau avancé)**  
@@ -45,7 +45,7 @@ je combine une solide expérience institutionnelle avec une expertise académiqu
 
 ---
 
-**Environnements**  
+## **Environnements**  
 - Jupyter Notebook, VS Code, Google Colab
 
 ---
